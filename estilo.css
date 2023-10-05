@@ -1,0 +1,40 @@
+ body{
+    padding: 0%;
+   background-color: aqua;
+ }
+  
+  header, nav, li{
+    text-align: center;
+    display: inline;
+    padding: 14px 16px;
+   
+  }
+  a{
+    font-size: large;
+  }
+
+  div {
+    text-align: right;
+    padding: 5px;
+    box-shadow: inset;
+   
+  }
+  
+ .img1 {
+    float: right;
+  }
+
+p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+    
+  
+ 
